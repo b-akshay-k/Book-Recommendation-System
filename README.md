@@ -1,6 +1,6 @@
 # <font color="Brown"> <center> BOOK RECOMMENDATION SYSTEMS </font>
 
-<img src="https://t3.ftcdn.net/jpg/05/65/35/08/360_F_565350821_t9oAsB34PziL8lDGl7ZHq0QFhbgqNKkL.jpg" alt="your image" width="1000" height="200"></img>
+<img src="https://t3.ftcdn.net/jpg/05/65/35/08/360_F_565350821_t9oAsB34PziL8lDGl7ZHq0QFhbgqNKkL.jpg" alt="your image" width="1000" height="500"></img>
 
 - In the contemporary era of advanced technology and modern mobile devices, there is a growing concern that these digital
 distractions may be adversely impacting our reading skills and imagination. The pervasive use of smartphones and tablets
